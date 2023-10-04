@@ -1,0 +1,19 @@
+{
+  "name": "10-svg-logo-maker",
+  "description": "10-SVG-Logo-Maker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anthonykahly/10-SVG-Logo-Maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anthonykahly/10-SVG-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/Anthonykahly/10-SVG-Logo-Maker#readme"
+}
