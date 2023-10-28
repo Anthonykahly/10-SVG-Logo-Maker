@@ -1,5 +1,5 @@
 # SVG Logo Maker
-
+![Grey circle with blue lettering that reads ASK](./images/examples/ASK.svg) 
 [![MIT license](https://img.shields.io/badge/License-MIT-green.svg)](https://lbesson.mit-license.org/)
 
 # Table of Contents
